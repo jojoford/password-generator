@@ -1,5 +1,6 @@
-# password-generator
-# Password Generator Starter Code provided
+# Password-Generator 
+#  
+Starter Code provided
 #HTML provided
 #CSS provided
 #Created using HTML, CSS, JAVA
