@@ -17,3 +17,7 @@ No prompts had been programmed in javascript.
 *WHEN all prompts are answered
 *THEN a password is generated that matches the selected criteria
 *WHEN the password is generated it is written on the page
+
+screenshot
+
+Deployed project https://jojoford.github.io/password-generator/
