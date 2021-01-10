@@ -1,19 +1,18 @@
 
-# Password-Generator 
-#  A website that using window-prompts to help the user generate a password
+## Password-Generator 
+#  A website that uses window-prompts to help the user generate a password
 
-Starter Code provided javascript
-HTML provided
-CSS provided
+*Starter Code provided
+    *HTML provided
+    *CSS provided
+*BUILT WITH
+    *HTML
+    *CSS
+    *JAVA
 
-BUILT WITH
- HTML
- CSS
- JAVA
-
-GIVEN a starter code providing layout of website.
-The "genrate password" button was not functional.
-No prompts had been programmed in javascript.
+*GIVEN a starter code providing layout of website.
+   *The "genrate password" button was not functional.
+   *No prompts had been programmed in javascript.
 
 *Now user is presented with a series of prompts for password criteria
 *Updated javascript so that user is prompted for the length of the password
@@ -25,7 +24,7 @@ No prompts had been programmed in javascript.
 *THEN a password is generated that matches the selected criteria
 *WHEN the password is generated it is written on the page
 
-screenshot of website
+#screenshot of website
 [![password-gen-screenshot.jpg](https://i.postimg.cc/rwfj6WKS/password-gen-screenshot.jpg)](https://postimg.cc/fV0mmV7L)
 
-Link to deployed project https://jojoford.github.io/password-generator/
+#Link to deployed project https://jojoford.github.io/password-generator/
