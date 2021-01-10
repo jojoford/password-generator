@@ -1,9 +1,15 @@
+
 # Password-Generator 
-#  
-Starter Code provided
-#HTML provided
-#CSS provided
-#Created using HTML, CSS, JAVA
+#  A website that using window-prompts to help the user generate a password
+
+Starter Code provided javascript
+HTML provided
+CSS provided
+
+BUILT WITH
+ HTML
+ CSS
+ JAVA
 
 GIVEN a starter code providing layout of website.
 The "genrate password" button was not functional.
@@ -21,7 +27,5 @@ No prompts had been programmed in javascript.
 
 screenshot of website
 [![password-gen-screenshot.jpg](https://i.postimg.cc/rwfj6WKS/password-gen-screenshot.jpg)](https://postimg.cc/fV0mmV7L)
-[![password-gen-screenshot.jpg](https://i.postimg.cc/DZ95jTmH/password-gen-screenshot.jpg)](https://postimg.cc/bDRQr4x9)
-https://user-images.githubusercontent.com/75343703/104112474-087e8680-52b5-11eb-8c9c-2ac2a1538837.png
 
-Deployed project https://jojoford.github.io/password-generator/
+Link to deployed project https://jojoford.github.io/password-generator/
